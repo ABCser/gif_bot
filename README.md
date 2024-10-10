@@ -1,12 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-
-
-
-<!-- PROJECT LOGO -->
-
-
+<a id="readme-top"></a>
   <h3 align="center">Telegram GIF BOT</h3>
   <p align="center">
     Телеграм бот, который умеет создавать гифки из слов
@@ -70,12 +62,5 @@ Serj MG - [@mogilats](https://t.me/@mogilats)
 
 <p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/ABCser/gif_bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/ABCser/gif_bot/network/members
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/ABCser/gif_bot/issues
 [Python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
